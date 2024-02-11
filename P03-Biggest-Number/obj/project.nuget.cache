@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "BWirZ1Zb1TT2DELYQgmduegUwmzfaf9gW5ZDVuezPjp6Jk9ldkNDRFrKrzoiN3PAXwT0lTcj621oJkVfs0fv1g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\source\\repos\\For-Loop-and-While-Loop\\P03-Biggest-Number\\P03-Biggest-Number.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

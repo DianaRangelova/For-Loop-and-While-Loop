@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\For-Loop-and-While-Loop\P01-Power-of-Number\bin\Debug\net6.0\P01-Power-of-Number.exe
+C:\Users\PC\source\repos\For-Loop-and-While-Loop\P01-Power-of-Number\bin\Debug\net6.0\P01-Power-of-Number.deps.json
+C:\Users\PC\source\repos\For-Loop-and-While-Loop\P01-Power-of-Number\bin\Debug\net6.0\P01-Power-of-Number.runtimeconfig.json
+C:\Users\PC\source\repos\For-Loop-and-While-Loop\P01-Power-of-Number\bin\Debug\net6.0\P01-Power-of-Number.dll
+C:\Users\PC\source\repos\For-Loop-and-While-Loop\P01-Power-of-Number\bin\Debug\net6.0\P01-Power-of-Number.pdb
+C:\Users\PC\source\repos\For-Loop-and-While-Loop\P01-Power-of-Number\obj\Debug\net6.0\P01-Power-of-Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\For-Loop-and-While-Loop\P01-Power-of-Number\obj\Debug\net6.0\P01-Power-of-Number.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\For-Loop-and-While-Loop\P01-Power-of-Number\obj\Debug\net6.0\P01-Power-of-Number.AssemblyInfo.cs
+C:\Users\PC\source\repos\For-Loop-and-While-Loop\P01-Power-of-Number\obj\Debug\net6.0\P01-Power-of-Number.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\For-Loop-and-While-Loop\P01-Power-of-Number\obj\Debug\net6.0\P01-Power-of-Number.dll
+C:\Users\PC\source\repos\For-Loop-and-While-Loop\P01-Power-of-Number\obj\Debug\net6.0\refint\P01-Power-of-Number.dll
+C:\Users\PC\source\repos\For-Loop-and-While-Loop\P01-Power-of-Number\obj\Debug\net6.0\P01-Power-of-Number.pdb
+C:\Users\PC\source\repos\For-Loop-and-While-Loop\P01-Power-of-Number\obj\Debug\net6.0\P01-Power-of-Number.genruntimeconfig.cache
+C:\Users\PC\source\repos\For-Loop-and-While-Loop\P01-Power-of-Number\obj\Debug\net6.0\ref\P01-Power-of-Number.dll

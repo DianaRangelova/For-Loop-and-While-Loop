@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "hOO9jfUvfQ5XUK2/YH4IhwuQ8twwwn7dX9tSg5WUm629a2zHfNydSfFOHe9Xll8fliRQcp01X6E8W9KkAKxkYQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\source\\repos\\For-Loop-and-While-Loop\\P07-Special-Bonus\\P07-Special-Bonus.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

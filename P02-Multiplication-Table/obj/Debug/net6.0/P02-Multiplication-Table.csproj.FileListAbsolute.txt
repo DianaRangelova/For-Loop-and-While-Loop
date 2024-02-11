@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\For-Loop-and-While-Loop\P02-Multiplication-Table\bin\Debug\net6.0\P02-Multiplication-Table.exe
+C:\Users\PC\source\repos\For-Loop-and-While-Loop\P02-Multiplication-Table\bin\Debug\net6.0\P02-Multiplication-Table.deps.json
+C:\Users\PC\source\repos\For-Loop-and-While-Loop\P02-Multiplication-Table\bin\Debug\net6.0\P02-Multiplication-Table.runtimeconfig.json
+C:\Users\PC\source\repos\For-Loop-and-While-Loop\P02-Multiplication-Table\bin\Debug\net6.0\P02-Multiplication-Table.dll
+C:\Users\PC\source\repos\For-Loop-and-While-Loop\P02-Multiplication-Table\bin\Debug\net6.0\P02-Multiplication-Table.pdb
+C:\Users\PC\source\repos\For-Loop-and-While-Loop\P02-Multiplication-Table\obj\Debug\net6.0\P02-Multiplication-Table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\For-Loop-and-While-Loop\P02-Multiplication-Table\obj\Debug\net6.0\P02-Multiplication-Table.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\For-Loop-and-While-Loop\P02-Multiplication-Table\obj\Debug\net6.0\P02-Multiplication-Table.AssemblyInfo.cs
+C:\Users\PC\source\repos\For-Loop-and-While-Loop\P02-Multiplication-Table\obj\Debug\net6.0\P02-Multiplication-Table.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\For-Loop-and-While-Loop\P02-Multiplication-Table\obj\Debug\net6.0\P02-Multiplication-Table.dll
+C:\Users\PC\source\repos\For-Loop-and-While-Loop\P02-Multiplication-Table\obj\Debug\net6.0\refint\P02-Multiplication-Table.dll
+C:\Users\PC\source\repos\For-Loop-and-While-Loop\P02-Multiplication-Table\obj\Debug\net6.0\P02-Multiplication-Table.pdb
+C:\Users\PC\source\repos\For-Loop-and-While-Loop\P02-Multiplication-Table\obj\Debug\net6.0\P02-Multiplication-Table.genruntimeconfig.cache
+C:\Users\PC\source\repos\For-Loop-and-While-Loop\P02-Multiplication-Table\obj\Debug\net6.0\ref\P02-Multiplication-Table.dll
